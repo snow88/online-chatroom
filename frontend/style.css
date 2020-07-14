@@ -1,0 +1,34 @@
+body {
+    background-image: url(resources/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+    color: cadetblue;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+#login-div {
+    padding: 10px;
+    background: beige;
+}
+
+#chat-div {
+    padding: 10px;
+}
+
+#msglist {
+    padding: 40px;
+    list-style-image: url('resources/bullet.png');
+}
+
+li {
+    margin: 20px;
+}
